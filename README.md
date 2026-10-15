@@ -24,4 +24,4 @@ I focus on evaluating the practical business value of systems and modern tech. M
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/lee-shin-yee) · [Email](mailto:shinyee01037@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leeshinyee888/) · [Email](mailto:shinyee01037@gmail.com)
