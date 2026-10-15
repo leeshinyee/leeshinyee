@@ -1,16 +1,27 @@
-## Hi there 👋
+# Lee Shin Yee
 
-<!--
-**leeshinyee/leeshinyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Forward Deployed & AI Systems Engineer** · Kuala Lumpur, Malaysia
 
-Here are some ideas to get you started:
+I focus on evaluating the practical business value of systems and modern tech. My work is about improving messy business workflows — using pragmatic AI, automation, and full-stack tools to solve concrete operational bottlenecks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ [portfolio](#)
+
+---
+
+### Now
+
+
+
+### Before
+
+**System Analyst at Aurenn.** I evaluate enterprise AI platforms across automated debt collections, video generation pipelines, and workforce operations to align technical capabilities with commercial viability. I scope multi-system delivery roadmaps, run root-cause quality audits, and design product architectures for data dashboards, CRM automations, and transaction-driven user workflows. The business sets the outcome — the architecture guarantees the delivery.
+
+**Data Analysis & Digitalization Intern at BASF.** Automated recurring enterprise data ingestion pipelines with Power Automate and built real-time operational reporting dashboards in Power BI.
+
+**AI Data Annotator at Scam AI.** Labeled and classified fraud datasets to train detection models against adversarial content patterns.
+
+**Reading** BSc Computer Science — Asia Pacific University of Technology & Innovation, 2026
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/lee-shin-yee) · [Email](mailto:shinyee01037@gmail.com)
