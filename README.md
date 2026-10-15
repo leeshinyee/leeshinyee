@@ -2,7 +2,7 @@
 
 **Forward Deployed & AI Systems Engineer** · Kuala Lumpur, Malaysia
 
-I focus on evaluating the practical business value of systems and modern tech. My work is about improving messy business workflows — using pragmatic AI, automation, and full-stack tools to solve concrete operational bottlenecks.
+I focus on evaluating the practical business value of systems and modern tech. My work is about improving messy business workflows using pragmatic AI, automation, and full-stack tools to solve concrete operational bottlenecks.
 
 → [portfolio](#)
 
